@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
-  s.required_ruby_version = '>= 1.9.3'
+  s.required_ruby_version = '>= 1.9.2'
 
   s.name        = 'onpay-rails'
   s.version     = '0.0.1'
