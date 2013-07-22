@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.required_ruby_version = '>= 1.9.2'
 
   s.name        = 'onpay-rails'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2013-04-07'
   s.summary     = "Onpay-rails"
   s.description = "Payment method for onpay.ru"
